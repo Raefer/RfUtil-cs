@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wN+bPpgG/wsRdmNTeZCtfMk96ng222JTsbiQ6KQcnl9lMAwg7zk/NcPIp8SSK1a+tk658U1GQpucuL738flRoA==",
+  "success": true,
+  "projectFilePath": "/home/raefer/dev/RfUtil-cs/RfUtil-cs.csproj",
+  "expectedPackageFiles": [
+    "/home/raefer/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.5/microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
