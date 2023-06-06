@@ -1,0 +1,15 @@
+/home/raefer/dev/RfUtil-cs/bin/Debug/net7.0/RfUtil-cs.deps.json
+/home/raefer/dev/RfUtil-cs/bin/Debug/net7.0/RfUtil-cs.dll
+/home/raefer/dev/RfUtil-cs/bin/Debug/net7.0/RfUtil-cs.pdb
+/home/raefer/dev/RfUtil-cs/obj/Debug/net7.0/RfUtil-cs.csproj.AssemblyReference.cache
+/home/raefer/dev/RfUtil-cs/obj/Debug/net7.0/RfUtil-cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/raefer/dev/RfUtil-cs/obj/Debug/net7.0/RfUtil-cs.AssemblyInfoInputs.cache
+/home/raefer/dev/RfUtil-cs/obj/Debug/net7.0/RfUtil-cs.AssemblyInfo.cs
+/home/raefer/dev/RfUtil-cs/obj/Debug/net7.0/RfUtil-cs.csproj.CoreCompileInputs.cache
+/home/raefer/dev/RfUtil-cs/obj/Debug/net7.0/RfUtil-cs.dll
+/home/raefer/dev/RfUtil-cs/obj/Debug/net7.0/refint/RfUtil-cs.dll
+/home/raefer/dev/RfUtil-cs/obj/Debug/net7.0/RfUtil-cs.pdb
+/home/raefer/dev/RfUtil-cs/obj/Debug/net7.0/ref/RfUtil-cs.dll
+/home/raefer/dev/RfUtil-cs/out/RfUtil-cs.deps.json
+/home/raefer/dev/RfUtil-cs/out/RfUtil-cs.dll
+/home/raefer/dev/RfUtil-cs/out/RfUtil-cs.pdb
